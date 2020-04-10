@@ -1,7 +1,7 @@
 # Wander
-A simple android application demostrationg the use of [Google Maps](https://google.com/maps) on android application
+A simple android application demostrationg the use of [Google Maps](https://google.com/maps)
 
-I dit this application by following [Advanced Android in Kotlin](https://codelabs.developers.google.com/advanced-android-kotlin-training/) by google
+I did this application by following [Advanced Android in Kotlin](https://codelabs.developers.google.com/advanced-android-kotlin-training/) codelabs by google
 
 ## What I leaned
 - Setting up project and obtain map API key
