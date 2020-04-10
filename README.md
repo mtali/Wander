@@ -20,16 +20,16 @@ I tried doing a long time ago.
 
 Permission
 
-<img src="https://github.com/mtali/Wander/blob/master/screenshots/permission_screen.jpeg" width="300">
+<img src="https://github.com/mtali/Wander/blob/master/screenshots/permission_screen.png" width="300">
 
 
 Map Options
 
-<img src="https://github.com/mtali/Wander/blob/master/screenshots/options_screen.jpeg" width="300">
+<img src="https://github.com/mtali/Wander/blob/master/screenshots/options_screen.png" width="300">
 
 Map Screen with user markerts
 
-<img src="https://github.com/mtali/Wander/blob/master/screenshots/map_screen.jpeg" width="300">
+<img src="https://github.com/mtali/Wander/blob/master/screenshots/map_screen.png" width="300">
 
 
 Thanks :sunglasses:
